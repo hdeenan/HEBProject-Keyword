@@ -31,7 +31,7 @@ public class DriverScripts {
 					System.out.println(keyword); 
 					System.out.println(testdata);
 					
-					//UtilityMethods.actioncall(keyword);;
+					UtilityMethods.actioncall(keyword);;
 					
 				} 
 			 
